@@ -41,7 +41,7 @@ const Footer = () => {
             <ul className="flex flex-col gap-2 font-body text-sm text-background/60">
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
-                hello@koraroots.com
+                koraroots.in@gmail.com
               </li>
             </ul>
           </div>
