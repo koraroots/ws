@@ -8,7 +8,7 @@ const products = [
   {
     name: "Classic Roasted Makhana",
     description: "Lightly salted and perfectly roasted fox nuts with a satisfying crunch.",
-    price: "₹199",
+    price: "Coming Soon",
     image: productClassic,
     badge: "Best Seller",
   },
