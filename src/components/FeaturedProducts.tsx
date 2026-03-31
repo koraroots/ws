@@ -15,19 +15,19 @@ const products = [
   {
     name: "Peri Peri Makhana",
     description: "Bold and spicy peri peri flavored makhana for adventurous snackers.",
-    price: "₹229",
+    price: "Coming Soon",
     image: productPeriPeri,
   },
   {
     name: "Masala makhana",
     description: "Traditional crispy makhana seasoned with aromatic Indian spices.",
-    price: "₹149",
+    price: "Coming Soon",
     image: productMasalaSev,
   },
   {
     name: "Salted makhana",
     description: "Classic lightly salted makhana — the timeless Indian tea-time snack.",
-    price: "₹129",
+    price: "Coming Soon",
     image: productSaltedSev,
   },
 ];
