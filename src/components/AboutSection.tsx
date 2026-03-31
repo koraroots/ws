@@ -40,7 +40,7 @@ const AboutSection = () => {
             ingredients.
           </p>
           <p className="font-body text-muted-foreground leading-relaxed">
-            Every handful of our makhana and makhana carries the warmth of time-tested
+            Every handful of our makhana carries the warmth of time-tested
             recipes, reimagined for the modern, health-conscious snacker. No
             artificial preservatives, no shortcuts — just pure, honest flavors
             rooted in tradition.
