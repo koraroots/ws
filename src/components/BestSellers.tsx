@@ -23,7 +23,7 @@ const bestSellers = [
     description: "The ultimate spiced makhan that pairs perfectly with chai.",
     price: "₹149",
     image: productMasalaSev,
-    badge: "❤️ Fan Favorite",
+    badge: "❤️  Fan Favorite",
   },
 ];
 
